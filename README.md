@@ -111,7 +111,7 @@ SmartCarDiag uses a three-tier architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smartcardiag.git
+   git clone https://github.com/abdulwahed-sweden/smartcardiag.git
    cd smartcardiag
 
 Create environment variables file:
